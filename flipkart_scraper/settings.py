@@ -19,7 +19,7 @@ DOWNLOAD_HANDLERS = {
 
 # ScrapeOps Proxy Configuration
 
-SCRAPEOPS_API_KEY = '852c514d-15ea-4afb-991e-53088aaaeab1'
+SCRAPEOPS_API_KEY = 'YOUR SCRAPEOPS API KEY'
 PROXY_URL = f'http://scrapeops:{SCRAPEOPS_API_KEY}@residential-proxy.scrapeops.io:8181'
 IMAGES_ENABLED = False
 
